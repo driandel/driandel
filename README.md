@@ -5,8 +5,8 @@ sin que nadie las vigile, y documentando lo que sale mal por el camino.
 
 ### En producción
 
-**[DexClub](https://dexclubapp.com)** — aplicación de colección de cartas que
-desarrollo yo solo, publicada en Google Play y en la App Store. Flutter en el
+**[DexClub](https://dexclubapp.com)** — aplicación de colección de cartas Pokémon que
+desarrollo solo, publicada en Google Play y en la App Store. Flutter en el
 cliente y, detrás, una API en FastAPI sobre PostgreSQL servida por nginx en un
 VPS que administro.
 
